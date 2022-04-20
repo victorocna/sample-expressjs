@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "engines": {
-    "npm": ">= 7",
-    "node": ">= 15"
+    "npm": ">=7",
+    "node": ">=15 <18"
   },
   "dependencies": {
     "express": "^4.17.1"
